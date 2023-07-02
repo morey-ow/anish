@@ -34,6 +34,7 @@ hist_fractional[0][0].figure.savefig('histogram/fractional_parts')
 df['spacings']=df['zeroes'].diff()
 
 # %%
-hist_spacings=df.hist('spacings', bins=100)
-
+hist_spacings=df.hist('spacings', bins=1000)
+hist_spacings[0][0].figure.savefig('histogram/spacings')
 # %%
+df.spacings.describe()
