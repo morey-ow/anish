@@ -1,0 +1,711 @@
+{
+  "table": "lfunc_lfunctions",
+  "timestamp": "2023-06-11T01:40:41.847872",
+  "data": [
+    {
+      "id": 1444989,
+      "Lhash": "dirichlet_L_2797.1770",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445003,
+      "Lhash": "dirichlet_L_2797.1783",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445008,
+      "Lhash": "dirichlet_L_2797.1788",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445049,
+      "Lhash": "dirichlet_L_2797.1824",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445073,
+      "Lhash": "dirichlet_L_2797.1846",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445081,
+      "Lhash": "dirichlet_L_2797.1853",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445092,
+      "Lhash": "dirichlet_L_2797.1863",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445149,
+      "Lhash": "dirichlet_L_2797.1914",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445169,
+      "Lhash": "dirichlet_L_2797.1932",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445170,
+      "Lhash": "dirichlet_L_2797.1933",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445182,
+      "Lhash": "dirichlet_L_2797.1944",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445185,
+      "Lhash": "dirichlet_L_2797.1947",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445190,
+      "Lhash": "dirichlet_L_2797.1951",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445193,
+      "Lhash": "dirichlet_L_2797.1954",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445254,
+      "Lhash": "dirichlet_L_2797.2008",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445390,
+      "Lhash": "dirichlet_L_2797.2130",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445341,
+      "Lhash": "dirichlet_L_2797.2087",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445421,
+      "Lhash": "dirichlet_L_2797.2159",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445485,
+      "Lhash": "dirichlet_L_2797.2216",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445512,
+      "Lhash": "dirichlet_L_2797.2240",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445526,
+      "Lhash": "dirichlet_L_2797.2253",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445534,
+      "Lhash": "dirichlet_L_2797.2260",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445538,
+      "Lhash": "dirichlet_L_2797.2264",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445541,
+      "Lhash": "dirichlet_L_2797.2267",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446481,
+      "Lhash": "dirichlet_L_2797.597",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446491,
+      "Lhash": "dirichlet_L_2797.605",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446498,
+      "Lhash": "dirichlet_L_2797.611",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446606,
+      "Lhash": "dirichlet_L_2797.709",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446638,
+      "Lhash": "dirichlet_L_2797.738",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1444979,
+      "Lhash": "dirichlet_L_2797.1761",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445594,
+      "Lhash": "dirichlet_L_2797.2314",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446074,
+      "Lhash": "dirichlet_L_2797.2747",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445607,
+      "Lhash": "dirichlet_L_2797.2326",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445652,
+      "Lhash": "dirichlet_L_2797.2367",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445662,
+      "Lhash": "dirichlet_L_2797.2376",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445715,
+      "Lhash": "dirichlet_L_2797.2423",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445725,
+      "Lhash": "dirichlet_L_2797.2432",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445863,
+      "Lhash": "dirichlet_L_2797.2557",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445769,
+      "Lhash": "dirichlet_L_2797.2472",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445782,
+      "Lhash": "dirichlet_L_2797.2484",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445795,
+      "Lhash": "dirichlet_L_2797.2496",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445817,
+      "Lhash": "dirichlet_L_2797.2515",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445831,
+      "Lhash": "dirichlet_L_2797.2528",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445857,
+      "Lhash": "dirichlet_L_2797.2551",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445894,
+      "Lhash": "dirichlet_L_2797.2585",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445961,
+      "Lhash": "dirichlet_L_2797.2645",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445994,
+      "Lhash": "dirichlet_L_2797.2675",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446064,
+      "Lhash": "dirichlet_L_2797.2738",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446089,
+      "Lhash": "dirichlet_L_2797.2760",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446105,
+      "Lhash": "dirichlet_L_2797.2775",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446114,
+      "Lhash": "dirichlet_L_2797.2783",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1444399,
+      "Lhash": "dirichlet_L_2797.1239",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446699,
+      "Lhash": "dirichlet_L_2797.793",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446241,
+      "Lhash": "dirichlet_L_2797.380",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1444617,
+      "Lhash": "dirichlet_L_2797.1435",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446911,
+      "Lhash": "dirichlet_L_2797.984",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1444531,
+      "Lhash": "dirichlet_L_2797.1358",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1444711,
+      "Lhash": "dirichlet_L_2797.152",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446668,
+      "Lhash": "dirichlet_L_2797.765",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445378,
+      "Lhash": "dirichlet_L_2797.212",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446536,
+      "Lhash": "dirichlet_L_2797.646",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445230,
+      "Lhash": "dirichlet_L_2797.1988",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1444190,
+      "Lhash": "dirichlet_L_2797.1050",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1444445,
+      "Lhash": "dirichlet_L_2797.1280",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445091,
+      "Lhash": "dirichlet_L_2797.1862",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445127,
+      "Lhash": "dirichlet_L_2797.1895",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446011,
+      "Lhash": "dirichlet_L_2797.2690",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446710,
+      "Lhash": "dirichlet_L_2797.802",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1444225,
+      "Lhash": "dirichlet_L_2797.1082",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445285,
+      "Lhash": "dirichlet_L_2797.2036",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1444814,
+      "Lhash": "dirichlet_L_2797.1612",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445135,
+      "Lhash": "dirichlet_L_2797.1901",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446686,
+      "Lhash": "dirichlet_L_2797.781",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445980,
+      "Lhash": "dirichlet_L_2797.2662",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446165,
+      "Lhash": "dirichlet_L_2797.311",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445693,
+      "Lhash": "dirichlet_L_2797.2403",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446704,
+      "Lhash": "dirichlet_L_2797.798",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446348,
+      "Lhash": "dirichlet_L_2797.477",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1444887,
+      "Lhash": "dirichlet_L_2797.1679",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446259,
+      "Lhash": "dirichlet_L_2797.397",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446208,
+      "Lhash": "dirichlet_L_2797.350",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446650,
+      "Lhash": "dirichlet_L_2797.749",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1444366,
+      "Lhash": "dirichlet_L_2797.1209",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445902,
+      "Lhash": "dirichlet_L_2797.2592",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1444794,
+      "Lhash": "dirichlet_L_2797.1595",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1444293,
+      "Lhash": "dirichlet_L_2797.1143",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1444575,
+      "Lhash": "dirichlet_L_2797.1398",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445307,
+      "Lhash": "dirichlet_L_2797.2056",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446318,
+      "Lhash": "dirichlet_L_2797.45",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445205,
+      "Lhash": "dirichlet_L_2797.1965",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1444224,
+      "Lhash": "dirichlet_L_2797.1081",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446550,
+      "Lhash": "dirichlet_L_2797.659",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446900,
+      "Lhash": "dirichlet_L_2797.974",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445804,
+      "Lhash": "dirichlet_L_2797.2503",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445989,
+      "Lhash": "dirichlet_L_2797.2670",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446325,
+      "Lhash": "dirichlet_L_2797.456",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445467,
+      "Lhash": "dirichlet_L_2797.220",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1445746,
+      "Lhash": "dirichlet_L_2797.2451",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446796,
+      "Lhash": "dirichlet_L_2797.880",
+      "mu_real": [
+        1
+      ]
+    },
+    {
+      "id": 1446467,
+      "Lhash": "dirichlet_L_2797.584",
+      "mu_real": [
+        1
+      ]
+    }
+  ],
+  "start": 700,
+  "offset": 800,
+  "query": "/api/lfunc_lfunctions/?_format=json&conductor=i2797&degree=i1&mu_real=li1&_fields=Lhash,mu_real&_offset=700",
+  "next": "/api/lfunc_lfunctions/?_format=json&conductor=i2797&degree=i1&mu_real=li1&_fields=Lhash,mu_real&_offset=800",
+  "rec_id": "Lhash"
+}

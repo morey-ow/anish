@@ -1,0 +1,511 @@
+{
+  "table": "lfunc_lfunctions",
+  "timestamp": "2023-06-11T01:59:04.642668",
+  "data": [
+    {
+      "id": 1446100,
+      "Lhash": "dirichlet_L_2797.2770",
+      "conjugate": "dirichlet_L_2797.2279"
+    },
+    {
+      "id": 1446796,
+      "Lhash": "dirichlet_L_2797.880",
+      "conjugate": "dirichlet_L_2797.2120"
+    },
+    {
+      "id": 1446467,
+      "Lhash": "dirichlet_L_2797.584",
+      "conjugate": "dirichlet_L_2797.91"
+    },
+    {
+      "id": 1445129,
+      "Lhash": "dirichlet_L_2797.1897",
+      "conjugate": "dirichlet_L_2797.2278"
+    },
+    {
+      "id": 1445702,
+      "Lhash": "dirichlet_L_2797.2411",
+      "conjugate": "dirichlet_L_2797.2326"
+    },
+    {
+      "id": 1445365,
+      "Lhash": "dirichlet_L_2797.2108",
+      "conjugate": "dirichlet_L_2797.2456"
+    },
+    {
+      "id": 1444188,
+      "Lhash": "dirichlet_L_2797.1049",
+      "conjugate": "dirichlet_L_2797.8"
+    },
+    {
+      "id": 1446246,
+      "Lhash": "dirichlet_L_2797.385",
+      "conjugate": "dirichlet_L_2797.850"
+    },
+    {
+      "id": 1444296,
+      "Lhash": "dirichlet_L_2797.1146",
+      "conjugate": "dirichlet_L_2797.144"
+    },
+    {
+      "id": 1446334,
+      "Lhash": "dirichlet_L_2797.464",
+      "conjugate": "dirichlet_L_2797.645"
+    },
+    {
+      "id": 1446719,
+      "Lhash": "dirichlet_L_2797.810",
+      "conjugate": "dirichlet_L_2797.1509"
+    },
+    {
+      "id": 1446728,
+      "Lhash": "dirichlet_L_2797.819",
+      "conjugate": "dirichlet_L_2797.1308"
+    },
+    {
+      "id": 1444253,
+      "Lhash": "dirichlet_L_2797.1107",
+      "conjugate": "dirichlet_L_2797.1991"
+    },
+    {
+      "id": 1444331,
+      "Lhash": "dirichlet_L_2797.1178",
+      "conjugate": "dirichlet_L_2797.2334"
+    },
+    {
+      "id": 1444892,
+      "Lhash": "dirichlet_L_2797.1683",
+      "conjugate": "dirichlet_L_2797.816"
+    },
+    {
+      "id": 1446770,
+      "Lhash": "dirichlet_L_2797.857",
+      "conjugate": "dirichlet_L_2797.1547"
+    },
+    {
+      "id": 1445479,
+      "Lhash": "dirichlet_L_2797.2210",
+      "conjugate": "dirichlet_L_2797.1439"
+    },
+    {
+      "id": 1445569,
+      "Lhash": "dirichlet_L_2797.2292",
+      "conjugate": "dirichlet_L_2797.72"
+    },
+    {
+      "id": 1445531,
+      "Lhash": "dirichlet_L_2797.2258",
+      "conjugate": "dirichlet_L_2797.192"
+    },
+    {
+      "id": 1445505,
+      "Lhash": "dirichlet_L_2797.2234",
+      "conjugate": "dirichlet_L_2797.1709"
+    },
+    {
+      "id": 1444856,
+      "Lhash": "dirichlet_L_2797.1650",
+      "conjugate": "dirichlet_L_2797.2063"
+    },
+    {
+      "id": 1446582,
+      "Lhash": "dirichlet_L_2797.688",
+      "conjugate": "dirichlet_L_2797.435"
+    },
+    {
+      "id": 1445527,
+      "Lhash": "dirichlet_L_2797.2254",
+      "conjugate": "dirichlet_L_2797.1535"
+    },
+    {
+      "id": 1446291,
+      "Lhash": "dirichlet_L_2797.425",
+      "conjugate": "dirichlet_L_2797.770"
+    },
+    {
+      "id": 1446468,
+      "Lhash": "dirichlet_L_2797.585",
+      "conjugate": "dirichlet_L_2797.153"
+    },
+    {
+      "id": 1445621,
+      "Lhash": "dirichlet_L_2797.2339",
+      "conjugate": "dirichlet_L_2797.1313"
+    },
+    {
+      "id": 1444680,
+      "Lhash": "dirichlet_L_2797.1492",
+      "conjugate": "dirichlet_L_2797.703"
+    },
+    {
+      "id": 1445524,
+      "Lhash": "dirichlet_L_2797.2251",
+      "conjugate": "dirichlet_L_2797.835"
+    },
+    {
+      "id": 1444406,
+      "Lhash": "dirichlet_L_2797.1245",
+      "conjugate": "dirichlet_L_2797.2633"
+    },
+    {
+      "id": 1444459,
+      "Lhash": "dirichlet_L_2797.1293",
+      "conjugate": "dirichlet_L_2797.1140"
+    },
+    {
+      "id": 1444877,
+      "Lhash": "dirichlet_L_2797.167",
+      "conjugate": "dirichlet_L_2797.67"
+    },
+    {
+      "id": 1444916,
+      "Lhash": "dirichlet_L_2797.1704",
+      "conjugate": "dirichlet_L_2797.412"
+    },
+    {
+      "id": 1445895,
+      "Lhash": "dirichlet_L_2797.2586",
+      "conjugate": "dirichlet_L_2797.570"
+    },
+    {
+      "id": 1445339,
+      "Lhash": "dirichlet_L_2797.2085",
+      "conjugate": "dirichlet_L_2797.1371"
+    },
+    {
+      "id": 1446772,
+      "Lhash": "dirichlet_L_2797.859",
+      "conjugate": "dirichlet_L_2797.2530"
+    },
+    {
+      "id": 1446183,
+      "Lhash": "dirichlet_L_2797.328",
+      "conjugate": "dirichlet_L_2797.776"
+    },
+    {
+      "id": 1446601,
+      "Lhash": "dirichlet_L_2797.704",
+      "conjugate": "dirichlet_L_2797.2650"
+    },
+    {
+      "id": 1444267,
+      "Lhash": "dirichlet_L_2797.112",
+      "conjugate": "dirichlet_L_2797.1873"
+    },
+    {
+      "id": 1446345,
+      "Lhash": "dirichlet_L_2797.474",
+      "conjugate": "dirichlet_L_2797.2083"
+    },
+    {
+      "id": 1444554,
+      "Lhash": "dirichlet_L_2797.1379",
+      "conjugate": "dirichlet_L_2797.1004"
+    },
+    {
+      "id": 1444918,
+      "Lhash": "dirichlet_L_2797.1706",
+      "conjugate": "dirichlet_L_2797.2133"
+    },
+    {
+      "id": 1444997,
+      "Lhash": "dirichlet_L_2797.1778",
+      "conjugate": "dirichlet_L_2797.1065"
+    },
+    {
+      "id": 1444529,
+      "Lhash": "dirichlet_L_2797.1356",
+      "conjugate": "dirichlet_L_2797.691"
+    },
+    {
+      "id": 1446844,
+      "Lhash": "dirichlet_L_2797.923",
+      "conjugate": "dirichlet_L_2797.2697"
+    },
+    {
+      "id": 1444464,
+      "Lhash": "dirichlet_L_2797.1298",
+      "conjugate": "dirichlet_L_2797.821"
+    },
+    {
+      "id": 1446274,
+      "Lhash": "dirichlet_L_2797.41",
+      "conjugate": "dirichlet_L_2797.614"
+    },
+    {
+      "id": 1445174,
+      "Lhash": "dirichlet_L_2797.1937",
+      "conjugate": "dirichlet_L_2797.2449"
+    },
+    {
+      "id": 1446661,
+      "Lhash": "dirichlet_L_2797.759",
+      "conjugate": "dirichlet_L_2797.1931"
+    },
+    {
+      "id": 1444361,
+      "Lhash": "dirichlet_L_2797.1204",
+      "conjugate": "dirichlet_L_2797.2646"
+    },
+    {
+      "id": 1445953,
+      "Lhash": "dirichlet_L_2797.2638",
+      "conjugate": "dirichlet_L_2797.387"
+    },
+    {
+      "id": 1444633,
+      "Lhash": "dirichlet_L_2797.145",
+      "conjugate": "dirichlet_L_2797.2064"
+    },
+    {
+      "id": 1444791,
+      "Lhash": "dirichlet_L_2797.1592",
+      "conjugate": "dirichlet_L_2797.2479"
+    },
+    {
+      "id": 1445354,
+      "Lhash": "dirichlet_L_2797.2099",
+      "conjugate": "dirichlet_L_2797.1679"
+    },
+    {
+      "id": 1446373,
+      "Lhash": "dirichlet_L_2797.5",
+      "conjugate": "dirichlet_L_2797.1119"
+    },
+    {
+      "id": 1444873,
+      "Lhash": "dirichlet_L_2797.1666",
+      "conjugate": "dirichlet_L_2797.596"
+    },
+    {
+      "id": 1446586,
+      "Lhash": "dirichlet_L_2797.691",
+      "conjugate": "dirichlet_L_2797.1356"
+    },
+    {
+      "id": 1446278,
+      "Lhash": "dirichlet_L_2797.413",
+      "conjugate": "dirichlet_L_2797.982"
+    },
+    {
+      "id": 1445619,
+      "Lhash": "dirichlet_L_2797.2337",
+      "conjugate": "dirichlet_L_2797.2268"
+    },
+    {
+      "id": 1445108,
+      "Lhash": "dirichlet_L_2797.1878",
+      "conjugate": "dirichlet_L_2797.70"
+    },
+    {
+      "id": 1445906,
+      "Lhash": "dirichlet_L_2797.2596",
+      "conjugate": "dirichlet_L_2797.1809"
+    },
+    {
+      "id": 1444987,
+      "Lhash": "dirichlet_L_2797.1769",
+      "conjugate": "dirichlet_L_2797.536"
+    },
+    {
+      "id": 1445503,
+      "Lhash": "dirichlet_L_2797.2232",
+      "conjugate": "dirichlet_L_2797.1698"
+    },
+    {
+      "id": 1444371,
+      "Lhash": "dirichlet_L_2797.1213",
+      "conjugate": "dirichlet_L_2797.1930"
+    },
+    {
+      "id": 1445298,
+      "Lhash": "dirichlet_L_2797.2048",
+      "conjugate": "dirichlet_L_2797.1785"
+    },
+    {
+      "id": 1445371,
+      "Lhash": "dirichlet_L_2797.2113",
+      "conjugate": "dirichlet_L_2797.642"
+    },
+    {
+      "id": 1444258,
+      "Lhash": "dirichlet_L_2797.1111",
+      "conjugate": "dirichlet_L_2797.2510"
+    },
+    {
+      "id": 1444218,
+      "Lhash": "dirichlet_L_2797.1076",
+      "conjugate": "dirichlet_L_2797.1869"
+    },
+    {
+      "id": 1444754,
+      "Lhash": "dirichlet_L_2797.1559",
+      "conjugate": "dirichlet_L_2797.61"
+    },
+    {
+      "id": 1445692,
+      "Lhash": "dirichlet_L_2797.2402",
+      "conjugate": "dirichlet_L_2797.2535"
+    },
+    {
+      "id": 1446204,
+      "Lhash": "dirichlet_L_2797.347",
+      "conjugate": "dirichlet_L_2797.266"
+    },
+    {
+      "id": 1444900,
+      "Lhash": "dirichlet_L_2797.1690",
+      "conjugate": "dirichlet_L_2797.806"
+    },
+    {
+      "id": 1446177,
+      "Lhash": "dirichlet_L_2797.322",
+      "conjugate": "dirichlet_L_2797.2354"
+    },
+    {
+      "id": 1446717,
+      "Lhash": "dirichlet_L_2797.809",
+      "conjugate": "dirichlet_L_2797.446"
+    },
+    {
+      "id": 1444964,
+      "Lhash": "dirichlet_L_2797.1748",
+      "conjugate": "dirichlet_L_2797.2789"
+    },
+    {
+      "id": 1445847,
+      "Lhash": "dirichlet_L_2797.2542",
+      "conjugate": "dirichlet_L_2797.2446"
+    },
+    {
+      "id": 1445519,
+      "Lhash": "dirichlet_L_2797.2247",
+      "conjugate": "dirichlet_L_2797.2202"
+    },
+    {
+      "id": 1444496,
+      "Lhash": "dirichlet_L_2797.1326",
+      "conjugate": "dirichlet_L_2797.1466"
+    },
+    {
+      "id": 1444669,
+      "Lhash": "dirichlet_L_2797.1482",
+      "conjugate": "dirichlet_L_2797.134"
+    },
+    {
+      "id": 1445412,
+      "Lhash": "dirichlet_L_2797.2150",
+      "conjugate": "dirichlet_L_2797.1258"
+    },
+    {
+      "id": 1445041,
+      "Lhash": "dirichlet_L_2797.1817",
+      "conjugate": "dirichlet_L_2797.665"
+    },
+    {
+      "id": 1446124,
+      "Lhash": "dirichlet_L_2797.2792",
+      "conjugate": "dirichlet_L_2797.1678"
+    },
+    {
+      "id": 1446529,
+      "Lhash": "dirichlet_L_2797.64",
+      "conjugate": "dirichlet_L_2797.1180"
+    },
+    {
+      "id": 1446267,
+      "Lhash": "dirichlet_L_2797.403",
+      "conjugate": "dirichlet_L_2797.583"
+    },
+    {
+      "id": 1446537,
+      "Lhash": "dirichlet_L_2797.647",
+      "conjugate": "dirichlet_L_2797.1539"
+    },
+    {
+      "id": 1446899,
+      "Lhash": "dirichlet_L_2797.973",
+      "conjugate": "dirichlet_L_2797.940"
+    },
+    {
+      "id": 1445057,
+      "Lhash": "dirichlet_L_2797.1831",
+      "conjugate": "dirichlet_L_2797.1080"
+    },
+    {
+      "id": 1446077,
+      "Lhash": "dirichlet_L_2797.275",
+      "conjugate": "dirichlet_L_2797.1190"
+    },
+    {
+      "id": 1444589,
+      "Lhash": "dirichlet_L_2797.141",
+      "conjugate": "dirichlet_L_2797.1825"
+    },
+    {
+      "id": 1446106,
+      "Lhash": "dirichlet_L_2797.2776",
+      "conjugate": "dirichlet_L_2797.2131"
+    },
+    {
+      "id": 1446420,
+      "Lhash": "dirichlet_L_2797.541",
+      "conjugate": "dirichlet_L_2797.760"
+    },
+    {
+      "id": 1446180,
+      "Lhash": "dirichlet_L_2797.325",
+      "conjugate": "dirichlet_L_2797.2513"
+    },
+    {
+      "id": 1446255,
+      "Lhash": "dirichlet_L_2797.393",
+      "conjugate": "dirichlet_L_2797.2128"
+    },
+    {
+      "id": 1444537,
+      "Lhash": "dirichlet_L_2797.1363",
+      "conjugate": "dirichlet_L_2797.2600"
+    },
+    {
+      "id": 1444185,
+      "Lhash": "dirichlet_L_2797.1046",
+      "conjugate": "dirichlet_L_2797.2067"
+    },
+    {
+      "id": 1445992,
+      "Lhash": "dirichlet_L_2797.2673",
+      "conjugate": "dirichlet_L_2797.203"
+    },
+    {
+      "id": 1446260,
+      "Lhash": "dirichlet_L_2797.398",
+      "conjugate": "dirichlet_L_2797.1525"
+    },
+    {
+      "id": 1446275,
+      "Lhash": "dirichlet_L_2797.410",
+      "conjugate": "dirichlet_L_2797.2299"
+    },
+    {
+      "id": 1446034,
+      "Lhash": "dirichlet_L_2797.2710",
+      "conjugate": "dirichlet_L_2797.2154"
+    },
+    {
+      "id": 1446249,
+      "Lhash": "dirichlet_L_2797.388",
+      "conjugate": "dirichlet_L_2797.656"
+    },
+    {
+      "id": 1446642,
+      "Lhash": "dirichlet_L_2797.741",
+      "conjugate": "dirichlet_L_2797.268"
+    }
+  ],
+  "start": 1600,
+  "offset": 1700,
+  "query": "/api/lfunc_lfunctions/?_format=json&conductor=i2797&degree=i1&_fields=Lhash,conjugate&_offset=1600",
+  "next": "/api/lfunc_lfunctions/?_format=json&conductor=i2797&degree=i1&_fields=Lhash,conjugate&_offset=1700",
+  "rec_id": "Lhash"
+}
