@@ -1,5 +1,6 @@
 #%%
 from manim import *
+
 import numpy as np
 
 #%%
@@ -54,6 +55,7 @@ class ZetaCritical(Scene):
             axis_config={'include_numbers': True}
         )
         s_tex=MathTex('s')
+        t=ValueTracker(0).align_to(axes_left, UP)
         zeta_tex=MathTex('\\zeta(s)').move_to(3*UR)
         axes=VGroup(axes_left, axes_right).arrange(RIGHT).scale(0.9)
         one_half=MathTex('\\frac{1}{2}').next_to(axes_left.x_axis.n2p(0.5),DOWN)
@@ -62,10 +64,11 @@ class ZetaCritical(Scene):
 
         graph_left=self.plot_complex(s, axes_left)
         graph_right=self.plot_complex(zetas, axes_right)
-        self.play(Create(graph_left, run_time=4, rate_func=linear))
-        self.play(Create(graph_right, run_time=8, rate_func=linear))
-        
         self.plot_zeros(s, zetas, axes_left)
+
+        self.play(Create(VGroup(graph_left,graph_right), run_time=4, rate_func=linear))
+        #self.play(Create(graph_right, run_time=8, rate_func=linear))
+        
         #print('Here is zeros imaginary parts')
         #print(zeros.imag)
         #print([axes_left.c2p(0.5,zero) for zero in zeros.imag])
