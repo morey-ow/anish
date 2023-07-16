@@ -10,8 +10,8 @@ class Square(Scene):
         axes=Axes(
             x_range=(-x_min**2,x_max**2),
             y_range=(y_min*2,y_max*2),
-            x_axis_config={'include_numbers': True},
-            y_axis_config={'include_numbers': True}
+            x_axis_config={'include_numbers': False},
+            y_axis_config={'include_numbers': False}
         )
         self.add(axes)
         
@@ -33,19 +33,23 @@ class Square(Scene):
             sq_value_ys=[]
             for x in np.arange(1,x_max, 1):
                 sq_value=(x+1J*y)**2
-                #print(sq_value)
                 sq_value_xs.append(sq_value.real)
                 sq_value_ys.append(sq_value.imag)
-            #print(sq_value_xs)
-            #print(zeta_value_ys)
+            
             
             #graph the square data
+            #using set_points_smoothly
             points=[axes.c2p(xi, yi) for xi, yi in zip(sq_value_xs, sq_value_ys)]
-            for i,v in enumerate(points):
-                print(f'i={i}, point={v}')
             graph=VMobject(color=RED).set_points_smoothly(points)
+            
+            #graph2 is line connecting
+            #datapoints, not as nice looking
+            #as set points smoothly
+
             #graph2=axes.plot_line_graph(sq_value_xs, sq_value_ys)
             #graph2.set_color(GREEN)
             #self.add(graph2)
             self.play(Transform(line, graph))
             
+        self.add(*lines)
+        self.wait()
