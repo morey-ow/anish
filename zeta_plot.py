@@ -2,6 +2,7 @@
 from manim import *
 
 import numpy as np
+from zeta import zeta
 
 #%%
 def get_data(filename):
@@ -12,7 +13,10 @@ def get_data(filename):
     num_points=len(data)-1
     #s=np.zeros(num_points, dtype=complex)
     #zetas=np.zeros(num_points, dtype=complex)
-    s=[]
+    #s will be the y-coord of points on critical line
+    s=[] 
+
+    #zetas =zeta(s) will hold values of zeta evaluated at
     zetas=[]
     for row in range(1, num_points):
         print(row, data[row])
@@ -73,5 +77,50 @@ class ZetaCritical(Scene):
         #print(zeros.imag)
         #print([axes_left.c2p(0.5,zero) for zero in zeros.imag])
         self.wait(1)
+
+# %%
+class analytic_cont_zeta(Scene):
+    def construct(self):
+
+        #create Axes
+        x_min, x_max =-6, 6
+        y_min, y_max=-4,4
+
+        axes=Axes(
+            x_range=(x_min,x_max),
+            y_range=(y_min,y_max),
+            x_axis_config={'include_numbers': True},
+            y_axis_config={'include_numbers': True}
+        )
+        self.add(axes)
+        
+        # add horizontal lines
+
+        step_size=3
+        num_lines=(y_max-y_min)
+        lines=[]
+        for y in range(y_min, y_max, step_size):
+            line=axes.plot_line_graph([1, x_max], [y,y] )
+            lines.append(line)
+            #self.add(line)
+        self.add(*lines)
+
+        #compute zeta(line)
+        zeta_lines=[]
+        for y in  np.arange(1.2, 20, 5): #np.arange(y_min, y_max, step_size):
+            zeta_value_xs=[]
+            zeta_value_ys=[]
+            for x in np.arange(1.2, 500, 40):
+                zeta_value=zeta(x+1J*y)
+                zeta_value_xs.append(zeta_value.real)
+                zeta_value_ys.append(zeta_value.imag)
+            #print(zeta_value_xs)
+            #print(zeta_value_ys)
+            points=[axes.c2p(x, y) for x, y in zip(zeta_value_xs, zeta_value_ys)]
+            #graph=VMobject(color=RED).set_points_smoothly(points)
+            graph2=axes.plot_line_graph(zeta_value_xs, zeta_value_ys)
+            graph2.set_color(GREEN)
+            self.add(graph2)
+            #self.play(Create(graph))
 
 # %%

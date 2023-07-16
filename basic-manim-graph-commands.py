@@ -21,14 +21,17 @@ class Example(Scene):
             x_length=7,
             y_length=7
         )
-
+        #coords below is a list of triples
+        # of len(x)=len(y)
         coords = [axes.c2p(_x,_y) for _x,_y in zip(x,y)]
 
         graph = VMobject(color=RED).set_points_smoothly(coords)
-
+        graph2 = axes.plot_line_graph(x,y, add_vertex_dots=False )
         self.add(axes,graph)
         self.wait()
-        
+        self.add(graph2)
+        self.wait()
+
 #Here is how to plot a function using
 # axes.plot
 def function1(z):
@@ -54,3 +57,34 @@ class MyScene2(Scene):
         self.play(Transform(graph1, graph2), rate_func=linear)
         self.wait()
         
+class MyScene3(Scene):
+    def construct(self):
+
+        #create Axes
+        x_min, x_max =-6, 6
+        y_min, y_max=-4,4
+
+        axes=Axes(
+            x_range=(x_min,x_max),
+            y_range=(y_min,y_max),
+            x_axis_config={'include_numbers': True},
+            y_axis_config={'include_numbers': True}
+        )
+        self.add(axes)
+        print(axes.c2p([2,4], [5,5]))
+        
+        # points is a 3 by 2 array
+        # the coord of the two points
+        # are (2,5) and (4,5)
+        # in c2p, first we give t
+        points=[axes.c2p(x, y) for x, y in zip([2,4], [5,5])]
+        points=np.array(points)
+        for i, c in enumerate(points):
+            print(f'{i} is ',c)
+        graph=VMobject(color=RED).set_points_smoothly([[2, 3.75, 0], [4, 3.75, 0]] )
+        graph2=VMobject(color=GREEN).set_points_smoothly(points)
+        self.add(graph)
+        self.add(graph2)
+
+
+
