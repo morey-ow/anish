@@ -83,8 +83,8 @@ class analytic_cont_zeta(Scene):
     def construct(self):
 
         #create Axes
-        x_min, x_max =-6, 6
-        y_min, y_max=-4,4
+        x_min, x_max =0,2
+        y_min, y_max=-2,2
 
         axes=Axes(
             x_range=(x_min,x_max),
@@ -105,22 +105,24 @@ class analytic_cont_zeta(Scene):
             #self.add(line)
         self.add(*lines)
 
-        #compute zeta(line)
+        #compute zeta(line) for various lines
         zeta_lines=[]
-        for y in  np.arange(1.2, 20, 5): #np.arange(y_min, y_max, step_size):
+        for y in  np.arange(-5.5, 5, 1): #np.arange(y_min, y_max, step_size):
             zeta_value_xs=[]
             zeta_value_ys=[]
-            for x in np.arange(1.2, 500, 40):
+            for x in np.arange(1.001, 5, 1):
                 zeta_value=zeta(x+1J*y)
                 zeta_value_xs.append(zeta_value.real)
                 zeta_value_ys.append(zeta_value.imag)
             #print(zeta_value_xs)
             #print(zeta_value_ys)
             points=[axes.c2p(x, y) for x, y in zip(zeta_value_xs, zeta_value_ys)]
-            #graph=VMobject(color=RED).set_points_smoothly(points)
+            graph=VMobject(color=RED).set_points_smoothly(points)
             graph2=axes.plot_line_graph(zeta_value_xs, zeta_value_ys)
+            label=Text(f'{y}').next_to(graph2)
             graph2.set_color(GREEN)
-            self.add(graph2)
+            #self.add(graph2)
+            self.add(graph)
             #self.play(Create(graph))
 
 # %%
